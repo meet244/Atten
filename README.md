@@ -7,6 +7,13 @@ Atten is available on the [Google Play Store](https://play.google.com/store/apps
   <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Google Play Store" width="350">
 </a>
 
+## Tutorial Video
+🎥 Check out our tutorial video on YouTube to learn how to use Atten App efficiently!
+
+[![Tutorial Video](https://github.com/meet244/Atten/assets/83262693/c50f0a41-64da-4249-9536-a6eb6351ca56)](https://youtu.be/RhiePo-AfXY)
+
+In this tutorial, we demonstrate the step-by-step process of using Atten App to mark attendance effortlessly. Watch the video to understand the app's functionality and features in action.
+
 ## Features
 ✨ Quick and easy attendance marking using Bluetooth and internet connectivity.<br/>
 📲 User-friendly interface for easy navigation.<br/>
